@@ -1,0 +1,8 @@
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A67_alignment_files/A67.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A70_alignment_files/A70.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A72_alignment_files/A72.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/Z16_alignment_files/Z16.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/Z17_alignment_files/Z17.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/U48_alignment_files/U48.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/U51_alignment_files/U51.ome.tif
+/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A45_alignment_files/A45.ome.tif

@@ -1,0 +1,6 @@
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY57.ndpi
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY90.ndpi
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY96.ndpi
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY112.ndpi
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY162.ndpi
+/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY81.ndpi

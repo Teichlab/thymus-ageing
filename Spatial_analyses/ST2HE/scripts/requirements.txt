@@ -1,0 +1,26 @@
+# --- Build/runtime shim ---
+# setuptools >=81 removed pkg_resources; several deps still import it.
+setuptools<81
+
+# --- Whole-slide image reading (NDPI/SVS/TIFF) ---
+# openslide-python is the Python binding; it needs the OpenSlide C library.
+# openslide-bin ships that library as a wheel so you don't need a system install
+# (conda alternative: `conda install -c conda-forge openslide openslide-python`).
+openslide-bin
+openslide-python
+
+# --- Imaging / arrays ---
+numpy
+pandas
+pyarrow            # parquet engine for pandas .to_parquet / read_parquet
+Pillow             # PIL
+tifffile
+opencv-python      # cv2
+matplotlib
+
+# --- UNI2-h embedding (test_morpho.py) ---
+torch
+timm>=1.0.3        # UNI2-h needs a timm with SwiGLUPacked / reg_tokens support
+huggingface_hub
+anndata>=0.11        # spatialdata / spatialdata-io import anndata.io (added in 0.11)
+tqdm
