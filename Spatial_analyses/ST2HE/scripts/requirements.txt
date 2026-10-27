@@ -1,6 +1,6 @@
-# Environment for the ST2HE pre-processing + embedding scripts (preprocess_morpho.py,
-# generate_embeddings_morpho.py). Versions are those used for the manuscript
-# (Python 3.10, CUDA 12.4).
+# Environment for the ST2HE image-processing scripts (preprocess_morpho.py,
+# generate_embeddings_morpho.py), i.e. the `morpho-env` used for the manuscript
+# (Python 3.10, CUDA 12.4). The analysis notebooks use ../environment_analysis.yml.
 
 # --- Build/runtime shim ---
 # setuptools >=81 removed pkg_resources; several deps still import it.

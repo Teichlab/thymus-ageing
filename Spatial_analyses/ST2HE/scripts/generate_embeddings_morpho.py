@@ -7,7 +7,8 @@ import pandas as pd
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import torch
-from huggingface_hub import login
+from huggingface_hub import login, get_token
+from huggingface_hub.constants import HF_HUB_OFFLINE
 from PIL import Image, ImageDraw, ImageFont
 import timm
 from timm.data import resolve_data_config
@@ -121,7 +122,10 @@ def build_uni2h(device):
     if device.type == "cuda":
         print("GPU:", torch.cuda.get_device_name(0))
 
-    login()
+    # Only prompt for a token if none is configured (HF_TOKEN / cached login) and
+    # we are not loading the weights from the local cache (HF_HUB_OFFLINE=1).
+    if not (get_token() or HF_HUB_OFFLINE):
+        login()
 
     timm_kwargs = {
         'img_size': 224,

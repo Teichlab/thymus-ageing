@@ -1,0 +1,16 @@
+# Minimal CPU-only environment for demo/demo_integration.py (Python 3.12).
+# Same versions as ../environment_analysis.yml, without the GPU (RAPIDS) packages.
+numpy==2.4.4
+pandas==2.3.3
+scipy==1.17.1
+h5py==3.16.0
+matplotlib==3.10.9
+anndata==0.12.16
+scanpy==1.12.1
+scikit-learn==1.8.0
+bbknn==1.6.0
+annoy==1.16.3
+pynndescent==0.6.0
+igraph==1.0.0
+leidenalg==0.12.0
+umap-learn==0.5.12

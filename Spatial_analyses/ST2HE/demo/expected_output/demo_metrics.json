@@ -1,0 +1,22 @@
+{
+  "X_pca": {
+    "paired_donor_platform_AUC": 1.0,
+    "paired_donor_balanced_iLISI": 1.0
+  },
+  "X_pca_coral": {
+    "paired_donor_platform_AUC": 0.485,
+    "paired_donor_balanced_iLISI": 1.135
+  },
+  "clustering": {
+    "n_clusters": 40,
+    "ARI_vs_published_leiden_r2.0": 0.354,
+    "ARI_vs_morpho_niche_l2": 0.169,
+    "niche_l2_purity_of_demo_clusters": 0.73
+  },
+  "demo_crop": {
+    "n_tiles": 256,
+    "n_matched_to_atlas": 251,
+    "median_cosine_to_published_embedding": 0.984,
+    "niche_transfer_agreement": 0.773
+  }
+}
