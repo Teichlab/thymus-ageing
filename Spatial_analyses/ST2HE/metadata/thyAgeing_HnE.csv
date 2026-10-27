@@ -1,0 +1,57 @@
+file_name,image_id,DonorID,tissue_embedding,resolution,dimensions,n_slices,info_slices,format,annotation_file,has_xenium,source,file_path
+U48-THY-0-FFPE-1-S7-i_S000005312 - 2025-01-10 11.42.25,75701,U48,FFPE,0.227,45056 x 48384,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/U48-THY-0-FFPE-1-S7-i_S000005312 - 2025-01-10 11.42.25.ndpi
+U40-THY-0-FFPE-1-S18-i_S000005306 - 2025-01-10 11.29.23,75698,U40,FFPE,0.227,49152 x 35840,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/U40-THY-0-FFPE-1-S18-i_S000005306 - 2025-01-10 11.29.23.ndpi
+Z11-THY-0-FFPE-1-S1i_S5297 - 2024-12-19 09.00.52,75347,Z11,FFPE,0.227,28672 x 30464,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/Z11-THY-0-FFPE-1-S1i_S5297 - 2024-12-19 09.00.52.ndpi
+Z12-THY-0-FFPE-1-S2ii_S5298 - 2024-12-19 09.03.17,75350,Z12,FFPE,0.227,20480 x 27904,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/Z12-THY-0-FFPE-1-S2ii_S5298 - 2024-12-19 09.03.17.ndpi
+A45-THY-0-FFPE-1 - 2024-10-15 16.55.54,69701,A45,FFPE,0.227,61440 x 64000,3,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A45-THY-0-FFPE-1 - 2024-10-15 16.55.54.ndpi
+A66-THY-0-FFPE-1 - 2024-10-15 16.33.37,69713,A66,FFPE,0.227,40960 x 45568,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A66-THY-0-FFPE-1 - 2024-10-15 16.33.37.ndpi
+A66-THY-0-FFPE-2 - 2024-10-15 17.34.26,69716,A66,FFPE,0.227,53248 x 49408,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A66-THY-0-FFPE-2 - 2024-10-15 17.34.26.ndpi
+A67-THY-0-FFPE-1 - 2024-10-15 16.38.08,69719,A67,FFPE,0.227,61440 x 63488,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A67-THY-0-FFPE-1 - 2024-10-15 16.38.08.ndpi
+NIHTHY0093,78383,NIHTHY0093,OCT,0.32,39560 x 24520,1,,ims,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/NIHTHY0093.ims
+S000000011_A16_Thymus,78384,A16,FFPE,0.454,22528 x 17664,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000000011_A16_Thymus.ndpi
+A56-THY-0-FF-1 - 2024-10-15 17.37.38,69710,A56,FFPE,0.227,49152 x 38656,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A56-THY-0-FF-1 - 2024-10-15 17.37.38.ndpi
+A56-THY-FO1-S10_S4887 - 2022-12-14 13.18.41,43094,A56,OCT,0.227,49152 x 38656,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A56-THY-FO1-S10_S4887 - 2022-12-14 13.18.41.ndpi
+A56-THY-FO1-S5_S4885 - 2022-12-14 13.21.09,43088,A56,OCT,0.227,28672 x 22016,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A56-THY-FO1-S5_S4885 - 2022-12-14 13.21.09.ndpi
+A56-THY-FO1-S7-8_S4886 - 2022-12-14 13.13.25,43091,A56,OCT,0.227,98304 x 35328,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A56-THY-FO1-S7-8_S4886 - 2022-12-14 13.13.25.ndpi
+S000003613_A56-THY-FO1_H&E - 2020-12-16 09.34.31,42941,A56,OCT,0.227,69632 x 19200,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003613_A56-THY-FO1_H&E - 2020-12-16 09.34.31.ndpi
+S000003615_A56-THY-FO2_H&E - 2020-12-16 09.36.43,42944,A56,OCT,0.227,73728 x 41472,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003615_A56-THY-FO2_H&E - 2020-12-16 09.36.43.ndpi
+S000003617_A56-THY-FO3_H&E - 2020-12-16 09.39.44,42947,A56,OCT,0.227,77824 x 29696,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003617_A56-THY-FO3_H&E - 2020-12-16 09.39.44.ndpi
+A53-THY-0-FF-2 - 2024-10-15 17.21.49,69707,A53,FFPE,0.227,45056 x 45568,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A53-THY-0-FF-2 - 2024-10-15 17.21.49.ndpi
+S000003343_A53-THY-FO-1 - 2020-10-14 12.50.38,42926,A53,OCT,0.454,47104 x 17920,2,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003343_A53-THY-FO-1 - 2020-10-14 12.50.38.ndpi
+S000003512_A53-THY-FO1_29yo - 2020-10-22 12.16.32,42935,A53,OCT,0.227,90112 x 47104,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003512_A53-THY-FO1_29yo - 2020-10-22 12.16.32.ndpi
+S000003619_A53-THY-FO2_H&E - 2020-12-16 09.42.28,42950,A53,OCT,0.227,102400 x 43776,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003619_A53-THY-FO2_H&E - 2020-12-16 09.42.28.ndpi
+S000003621_A53-THY-FO4_H&E - 2020-12-16 09.46.41,42953,A53,OCT,0.227,90112 x 42752,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003621_A53-THY-FO4_H&E - 2020-12-16 09.46.41.ndpi
+S000003623_A53-THY-FO5_H&E - 2020-12-16 09.50.17,42959,A53,OCT,0.227,114688 x 39424,2,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003623_A53-THY-FO5_H&E - 2020-12-16 09.50.17.ndpi
+A72-THY-0-FFPE-1 - 2024-10-15 16.45.54,69731,A72,FFPE,0.227,53248 x 58880,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-1 - 2024-10-15 16.45.54.ndpi
+A72-THY-0-FFPE-2 - 2024-10-15 16.53.12,69734,A72,FFPE,0.227,53248 x 39424,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-2 - 2024-10-15 16.53.12.ndpi
+A72-THY-0-FFPE-3 - 2024-10-15 16.49.42,69737,A72,FFPE,0.227,61440 x 45056,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-3 - 2024-10-15 16.49.42.ndpi
+A72-THY-0-FFPE-4 - 2024-10-15 17.31.41,69740,A72,FFPE,0.227,49152 x 46592,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-4 - 2024-10-15 17.31.41.ndpi
+A72-THY-0-FFPE-5 - 2024-10-15 17.26.22,69743,A72,FFPE,0.227,49152 x 49408,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-5 - 2024-10-15 17.26.22.ndpi
+A72-THY-0-FFPE-6 - 2024-10-15 17.00.39,69746,A72,FFPE,0.227,73728 x 73472,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A72-THY-0-FFPE-6 - 2024-10-15 17.00.39.ndpi
+A43-THY-0-FFPE-1 - 2024-10-15 17.24.26,69698,A43,FFPE,0.227,40960 x 30464,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A43-THY-0-FFPE-1 - 2024-10-15 17.24.26.ndpi
+A70-THY-0-FFPE-1 - 2024-10-15 17.06.51,69722,A70,FFPE,0.227,65536 x 60160,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A70-THY-0-FFPE-1 - 2024-10-15 17.06.51.ndpi
+A70-THY-0-FFPE-2 - 2024-10-15 17.17.34,69725,A70,FFPE,0.227,61440 x 59904,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A70-THY-0-FFPE-2 - 2024-10-15 17.17.34.ndpi
+A70-THY-0-FFPE-3 - 2024-10-15 17.40.05,69728,A70,FFPE,0.227,65536 x 51200,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A70-THY-0-FFPE-3 - 2024-10-15 17.40.05.ndpi
+S000003215_A51-THY-FO1-S2_HE - 2020-08-26 15.59.06,42974,A51,OCT,0.454,69632 x 23296,3,consecutive,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/S000003215_A51-THY-FO1-S2_HE - 2020-08-26 15.59.06.ndpi
+A74-THY-0-FFPE-1 - 2024-10-15 16.42.41,69749,A74,FFPE,0.227,53248 x 48384,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A74-THY-0-FFPE-1 - 2024-10-15 16.42.41.ndpi
+A74-THY-0-FFPE-2 - 2024-10-15 16.36.06,69752,A74,FFPE,0.227,49152 x 25344,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A74-THY-0-FFPE-2 - 2024-10-15 16.36.06.ndpi
+A74-THY-0-FFPE-3 - 2024-10-15 17.11.28,69755,A74,FFPE,0.227,53248 x 61184,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A74-THY-0-FFPE-3 - 2024-10-15 17.11.28.ndpi
+A74-THY-0-FFPE-4 - 2024-10-15 17.29.21,69758,A74,FFPE,0.227,45056 x 39168,1,,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/A74-THY-0-FFPE-4 - 2024-10-15 17.29.21.ndpi
+TSP14 TY A1,78387,TSP14,FFPE,0.252,113544 x 88911,1,,svs,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/TSP14 TY A1.svs
+TSP14 TY A2,78390,TSP14,FFPE,0.252,103584 x 90990,1,,svs,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/TSP14 TY A2.svs
+TSP14 TY B1.,78393,TSP14,FFPE,0.252,99600 x 77602,1,,svs,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/TSP14 TY B1..svs
+Z13-THY--FF-1,78399,Z13,FFPE,0.227,86016 x 24832,1,overstained,ndpi,,FALSE,CAM,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/thyAgeing_HnE/Z13-THY--FF-1.ndpi
+A67.ome,,A67,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A67_alignment_files/A67.ome.tif
+A70.ome,,A70,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A70_alignment_files/A70.ome.tif
+A72.ome,,A72,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A72_alignment_files/A72.ome.tif
+Z16.ome,,Z16,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/Z16_alignment_files/Z16.ome.tif
+Z17.ome,,Z17,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/Z17_alignment_files/Z17.ome.tif
+U48.ome,,U48,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/U48_alignment_files/U48.ome.tif
+U51.ome,,U51,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/U51_alignment_files/U51.ome.tif
+THY57,,NIHTHY0057,FFPE,0.225,61440 × 50688,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY57.ndpi
+THY81,,NIHTHY0081,FFPE,0.23,84480 × 46080,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY81.ndpi
+THY90,,NIHTHY0090,FFPE,0.225,53760 × 50688,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY90.ndpi
+THY96,,NIHTHY0096,FFPE,0.23,61440 × 41472,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY96.ndpi
+THY112,,NIHTHY0112,FFPE,0.225,57600 × 45056,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY112.ndpi
+THY162,,NIHTHY0162,FFPE,0.225,92160 × 59136,1,,ndpi,,FALSE,NIH,/lustre/scratch126/cellgen/teichmann/lm25/data/thymus_he/NIH_HnE/THY162.ndpi
+A45.ome,,A45,FFPE,0.221,,1,,ome.tif,,TRUE,CAM,/nfs/team205/lm25/thymus_projects/thymus_ageing_atlas/Spatial_analyses/data/xenium/he_alignments/A45_alignment_files/A45.ome.tif

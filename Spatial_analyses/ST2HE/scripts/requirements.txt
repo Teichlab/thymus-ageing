@@ -1,26 +1,32 @@
+# Environment for the ST2HE pre-processing + embedding scripts (preprocess_morpho.py,
+# generate_embeddings_morpho.py). Versions are those used for the manuscript
+# (Python 3.10, CUDA 12.4).
+
 # --- Build/runtime shim ---
 # setuptools >=81 removed pkg_resources; several deps still import it.
 setuptools<81
 
 # --- Whole-slide image reading (NDPI/SVS/TIFF) ---
-# openslide-python is the Python binding; it needs the OpenSlide C library.
-# openslide-bin ships that library as a wheel so you don't need a system install
-# (conda alternative: `conda install -c conda-forge openslide openslide-python`).
-openslide-bin
-openslide-python
+# openslide-bin ships the OpenSlide C library as a wheel, so no system install is needed.
+openslide-bin==4.0.1.2
+openslide-python==1.4.6
 
 # --- Imaging / arrays ---
-numpy
-pandas
-pyarrow            # parquet engine for pandas .to_parquet / read_parquet
-Pillow             # PIL
-tifffile
-opencv-python      # cv2
-matplotlib
+numpy==2.0.2
+pandas==2.2.3
+pyarrow==17.0.0      # parquet engine for pandas .to_parquet / read_parquet
+Pillow==10.2.0
+tifffile==2025.5.10
+opencv-python==5.0.0.93
+matplotlib==3.9.2
+h5py==3.12.1
 
-# --- UNI2-h embedding (test_morpho.py) ---
-torch
-timm>=1.0.3        # UNI2-h needs a timm with SwiGLUPacked / reg_tokens support
-huggingface_hub
-anndata>=0.11        # spatialdata / spatialdata-io import anndata.io (added in 0.11)
+# --- UNI2-h embedding ---
+# Install torch/torchvision from the CUDA 12.4 index:
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+timm==1.0.9          # UNI2-h needs a timm with SwiGLUPacked / reg_tokens support (>=1.0.3)
+huggingface_hub==1.21.0
+anndata==0.11.4
 tqdm
