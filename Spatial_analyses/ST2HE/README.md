@@ -331,3 +331,12 @@ notebooks point to our compute environment. They are kept for illustration and m
 If you use ST2HE, please cite the manuscript *A Human Thymus Ageing Cell Atlas Defines A Spatially Resolved Model of
 Involution*, together with UNI (Chen et al., *Nat. Med.* 2024), CORAL (Sun et al., *AAAI* 2016) and bbknn
 (Polański et al., *Bioinformatics* 2020).
+
+## Contributors
+
+ST2HE was developed by Lisa Marie Milchsack, with code contributions from Hansheng Xue and supervision by Nadav Yayon.
+
+## License
+
+ST2HE is released under the BSD 3-Clause License; see [`LICENSE`](LICENSE). This covers the code in this folder only.
+Third-party models and tools it uses, such as the UNI2 weights, are distributed under their own licenses.
